@@ -21,5 +21,3 @@ testcases = [
 print([group_anagrams(x) for x in testcases])
 
 
-
-
